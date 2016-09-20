@@ -15,7 +15,7 @@ Exercise: [344. Reverse String](https://leetcode.com/problems/reverse-string/) c
 public String reverseString(String s) {
 
     return new StringBuilder(s).reverse().toString();
-  }
+}
 ```
 
 I think that solving problems on LeetCode since it's an online judge platform where you can code and submit your solution to see if you have solved it correctly.
