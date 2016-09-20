@@ -18,7 +18,7 @@ public String reverseString(String s) {
 }
 ```
 
-I think that solving problems on LeetCode since it's an online judge platform where you can code and submit your solution to see if you have solved it correctly.
+I think that solving problems on LeetCode is a good idea since it's an online judge platform where you can code and submit your solution to see if you have solved it correctly.
 It is also possible to run your code on your own test cases.
 
 Anyways, if your solution failed too many times :crying_cat_face: , hopefully you get inspired by my solutions.
