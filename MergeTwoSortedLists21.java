@@ -1,8 +1,12 @@
 package LeetCodeAlgorithms;
 
 /**
+ * Merge two sorted linked lists and return it as a new list.
+ * The new list should be made by splicing together the nodes of the first two lists.
+ *
  * Created by dianaluca on 9/24/16.
  */
+
 public class MergeTwoSortedLists21 {
 
   public static class ListNode {
