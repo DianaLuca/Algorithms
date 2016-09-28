@@ -1,8 +1,9 @@
-package LeetCode;
+package LeetCodeAlgorithms;
 
 /**
  * Created by dianaluca on 9/16/16.
  */
+
 public class ReverseLinkedList206 {
   public ListNode reverseListIterative(ListNode head) {
     if (head == null) return null;
