@@ -15,6 +15,8 @@ import java.util.List;
  * return [1,3,2].
  * Note: Recursive solution is trivial, could you do it iteratively?
  *
+ * left -> root -> right
+ *
  * Created by dianaluca on 10/5/16.
  */
 
