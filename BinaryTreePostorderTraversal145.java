@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /** l
- * eft -> right -> root
+ * left -> right -> root
  * Created by dianaluca on 10/5/16.
  */
 
