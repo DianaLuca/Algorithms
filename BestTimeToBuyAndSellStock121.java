@@ -2,8 +2,7 @@ package LeetCodeAlgorithms;
 
 /**
  * Say you have an array for which the ith element is the price of a given stock on day i.
- * If you were only permitted to complete at most one transaction
- * (ie, buy one and sell one share of the stock),
+ * If you were only permitted to complete at most one transaction (ie, buy one and sell one share of the stock),
  * design an algorithm to find the maximum profit.
  *
  * As in the problem's editorial solution:
@@ -15,16 +14,17 @@ package LeetCodeAlgorithms;
  */
 
 public class BestTimeToBuyAndSellStock121 {
-  public static int maxProfit(int[] prices) {
-    int minBuy = (1<<30) - 1 + (1<<30); // maximum integer
-    int maxProfitSell = 0;
 
-    for(int i = 0; i < prices.length; i++){
-      minBuy = Math.min(minBuy, prices[i]);
-      maxProfitSell = Math.max(maxProfitSell, prices[i] = minBuy);
+  public static int maxProfit(int[] prices) {
+    int min = (1<<30) - 1 + (1<<30); // max int
+    int maxProfit = 0;
+
+    for (int i = 0; i < prices.length; i++) {
+      min = Math.min(prices[i], min);
+      maxProfit = Math.max(maxProfit, prices[i] - min);
     }
 
-    return maxProfitSell;
+    return maxProfit;
   }
 
   public static void main(String[] args) {
