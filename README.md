@@ -1,9 +1,7 @@
 # LeetCode-algorithms
-### Solutions of algorithmic exercises from LeetCode site. 
+### Solutions of algorithmic exercises from [LeetCode](https://leetcode.com/problemset/algorithms/), [Codility](https://codility.com/programmers/lessons/1-iterations/), [Hackerrank](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview) and [CSAcademy](https://csacademy.com/contest/interview-archive/) platforms. 
 
-LeetCode OJ is a platform for preparing technical coding interviews. 
-
-I used [LeetCode OJ](https://leetcode.com/problemset/algorithms/) to measure my progress in understanding algorithms and data structures, and also for interview preparation.
+I used LeetCode, Codility, Hackerrank and CSAcademy to measure my progress in understanding algorithms and data structures, and also for interview preparation.
 
 ### Usage
 
