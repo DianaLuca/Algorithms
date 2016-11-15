@@ -1,4 +1,4 @@
-# LeetCode-algorithms
+# Algorithms
 ### Solutions of algorithmic exercises from [LeetCode](https://leetcode.com/problemset/algorithms/), [Codility](https://codility.com/programmers/lessons/1-iterations/), [Hackerrank](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview) and [CSAcademy](https://csacademy.com/contest/interview-archive/) platforms. 
 
 I used LeetCode, Codility, Hackerrank and CSAcademy to measure my progress in understanding algorithms and data structures, and also for interview preparation.
