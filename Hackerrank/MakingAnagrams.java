@@ -41,21 +41,16 @@ public class MakingAnagrams {
 
   /**
    * Test Case:
-   *
-   * Sample Input
-   * cde
-   * abc
-   *
-   * Sample Output
-   * 4
+   * Input
+   *  cde
+   *  abc
+   * Output
+   *  4
    */
-
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
     String a = in.next(); //cde
     String b = in.next(); //abc
     System.out.println(numberNeeded(a, b)); //4
   }
-
-
 }
