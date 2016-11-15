@@ -1,4 +1,4 @@
-package LeetCodeAlgorithms.related;
+package Algorithms.related;
 
 /**
  * You’re given the pointer to the head node of a linked list,

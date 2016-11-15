@@ -1,4 +1,4 @@
-package LeetCodeAlgorithms.related;
+package Algorithms.related;
 
 /**
  * Created by dianaluca on 10/5/16.

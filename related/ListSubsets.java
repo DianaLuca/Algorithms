@@ -1,4 +1,4 @@
-package LeetCodeAlgorithms.related;
+package Algorithms.related;
 
 /**
  * Print on a new line each subset of a given set.

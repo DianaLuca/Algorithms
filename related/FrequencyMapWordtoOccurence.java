@@ -1,9 +1,7 @@
-package LeetCodeAlgorithms.related;
+package Algorithms.related;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.TreeMap;
 
 /**
  *  Try running this program with the command:
