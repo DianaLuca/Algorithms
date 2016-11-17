@@ -12,11 +12,11 @@ import java.util.*;
  *
  * Created by dianaluca on 11/16/16.
  */
-public class RansomNote {
+public class RansomNoteHashTables {
   Map<String, Integer> magazineMap;
   Map<String, Integer> noteMap;
 
-  public RansomNote(String magazine, String note) {
+  public RansomNoteHashTables(String magazine, String note) {
     magazineMap = new HashMap<String, Integer>();
     for(String word : magazine.split(" ")) {
       int val = magazineMap.get(word) == null ? 0 : magazineMap.get(word);
@@ -55,7 +55,7 @@ public class RansomNote {
     // Eat whitespace to beginning of next line
     scanner.nextLine();
 
-    RansomNote s = new RansomNote(scanner.nextLine(), scanner.nextLine());
+    RansomNoteHashTables s = new RansomNoteHashTables(scanner.nextLine(), scanner.nextLine());
     scanner.close();
 
     boolean answer = s.solve();

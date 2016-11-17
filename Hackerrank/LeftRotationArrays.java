@@ -10,7 +10,7 @@ import java.util.Scanner;
  * Created by dianaluca on 11/15/16.
  */
 
-public class LeftRotation {
+public class LeftRotationArrays {
   public static int[] arrayLeftRotation(int[] a, int n, int k) {
     int[] firstk = new int[k];
     for(int i = 0; i < k; i++) {

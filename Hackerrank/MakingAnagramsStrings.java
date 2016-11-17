@@ -8,7 +8,7 @@ import java.util.*;
  * Created by dianaluca on 11/15/16.
  */
 
-public class MakingAnagrams {
+public class MakingAnagramsStrings {
   public static int numberNeeded(String first, String second) {
     HashMap<Character, Integer> hmFirst = new HashMap<Character, Integer>();
     HashMap<Character, Integer> hmSecond = new HashMap<Character, Integer>();
