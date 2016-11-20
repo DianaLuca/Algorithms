@@ -2,6 +2,7 @@ package Algorithms.Hackerrank;
 import java.util.*;
 
 /**
+ * Tries = a type of a tree which store characters
  * We're going to make our own Contacts application!
  * The application must perform two types of operations:
  *
@@ -15,7 +16,7 @@ import java.util.*;
 
  * Created by dianaluca on 11/20/16.
  */
-public class ContactsTrees {
+public class ContactsTries {
 
   static class TrieNode {
     // No. of contacts possible after reaching this node in the trie
