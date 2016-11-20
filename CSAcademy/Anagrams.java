@@ -35,13 +35,12 @@ public class Anagrams {
 
     for(int i = 0; i < len; i++) {
       int val = Character.getNumericValue(word.charAt(i));
-      // sum += val;
-      // xor ^= val;
+      sum += val;
+      xor ^= val;
       sqSum += val * val;
     }
-
-    // return sum * 11111 + xor * 11 + sqSum * 24213;
-    return sqSum;
+    return sum * 11111 + xor * 11 + sqSum * 24213;
+    //return sqSum;
   }
 
   public static String sortWord(String word) {
