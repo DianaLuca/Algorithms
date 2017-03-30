@@ -2,8 +2,9 @@
 
 class Solution(object):
     def singleNumber(self, nums):
-        unique = nums[0]
-        for i in range(1, len(nums)):
-            unique = unique ^ nums[i]
-
+        unique = 0
+        for el in nums:
+            unique = unique ^ el
         return unique
+
+print (Solution().singleNumber([1, 3, 2, 3, 1]))

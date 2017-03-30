@@ -1,19 +1,19 @@
+def linear_search(l, x):
+    n = len(l)
+    for i in range(0, n):
+        if l[i] == x:
+            return i
+    return -1
+
 def main():
-    list = [1, 10, 30, 15]
+    l = [1, 10, 30, 15]
     x = 15
-    index = linear_search(list, x)
+    index = linear_search(l, x)
 
     if index == -1:
         print("Element {} is not in list".format(x))
     else:
-        print("{} is present at index {}".format(x, linear_search(list, x)))
+        print("{} is present at index {}".format(x, linear_search(l, x)))
 
-
-def linear_search(list, x):
-    n = len(list)
-    for i in range(0,n):
-        if list[i] == x:
-            return i
-    return -1
-
-if __name__ == "__main__": main()
+if __name__ == "__main__":
+    main()

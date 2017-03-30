@@ -1,27 +1,24 @@
 # Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
 
+from collections import defaultdict
+
 class Solution(object):
     def firstUniqChar(self, s):
         """
         :type s: str
         :rtype: int
         """
-        d = dict()
-
+        d = defaultdict(int)
         for c in s:
-            d[c] = d.get(c, 0) + 1
+            d[c] += 1
 
-            # if c in d.keys():
-            #     val = d.get(c)
-            #     d[c] = val + 1
-            # else :
-            #     d[c] = 1
-
-        i = 0
-        while i < len(s):
-            if d[s[i]] == 1:
+        for i, x in enumerate(s):
+            if d[x] == 1:
                 return i
-            else:
-                i += 1
 
         return -1
+
+
+S = Solution()
+assert S.firstUniqChar("aba") == 1
+assert S.firstUniqChar("abc") == 0

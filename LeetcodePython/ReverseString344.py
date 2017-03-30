@@ -2,6 +2,12 @@
 
 class Solution(object):
     def reverseString(self, s):
-        if len(s) <= 1:
-            return s
-        return s[::-1]
+        l = list(s)
+        for i in range(len(l) // 2):
+            aux = l[i]
+            l[i] = l[len(s) - 1 - i]
+            l[len(s) - 1 - i] = aux
+
+        return ''.join(l)
+
+print (Solution().reverseString("abcde"))

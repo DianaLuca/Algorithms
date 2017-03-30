@@ -1,5 +1,5 @@
 class Solution(object):
-    def getSum(self, x, y):
+    def getSum(self, x: int, y: int) -> int:
         """
         :type a: int
         :type b: int
