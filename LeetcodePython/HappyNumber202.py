@@ -12,7 +12,7 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        tmpl = list(str(n))
+        tmpl = str(n)
         preSet = set()
 
         while True:
