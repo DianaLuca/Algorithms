@@ -2,8 +2,31 @@
 #
 # You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
+
 class Solution(object):
+
+    # O(N) space and time complexity (only one list traverse,
+    # each look up in the dictionary costs O(1))
     def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+
+        ndict = {}
+        for i in range(len(nums)):
+            dif = target - nums[i]
+            if dif in ndict.values():
+                return [i, ndict.keys()[ndict.values().index(dif)]]
+            ndict[i] = nums[i]
+
+        return []
+
+
+    # O(N^2) time complexity
+    # O(1) space complexity
+    def twoSumBruteF(self, nums, target):
         """
         :type nums: List[int]
         :type target: int
@@ -16,5 +39,6 @@ class Solution(object):
             while j < len(nums):
                 if nums[j] == dif:
                     return [i, j]
-                j+=1
+                j += 1
+
         return []
