@@ -36,7 +36,7 @@ class Solution(object):
         for i in range(len(nums)):
             j = i+1
             dif = target - nums[i]
-            while j < len(nums):
+            for j in range(i+1, len(nums)):
                 if nums[j] == dif:
                     return [i, j]
                 j += 1
