@@ -13,10 +13,10 @@ class Solution(object):
         if not strs:
             return res
 
-        minel = sys.maxsize
+        minlen = sys.maxsize
         for el in strs:
-            if len(el) < minel:
-                minel = len(el)
+            if len(el) < minlen:
+                minlen = len(el)
                 small = el
 
         for i in range(len(small)):
