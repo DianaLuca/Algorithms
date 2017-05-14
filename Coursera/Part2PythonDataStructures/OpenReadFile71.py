@@ -6,6 +6,6 @@ fname = input("Enter file name: ")
 print (type(fname))
 fh = open(fname)
 for line in fh:
-    line = line.upper()
     line = line.rstrip()
+    line = line.upper()
     print(line)
