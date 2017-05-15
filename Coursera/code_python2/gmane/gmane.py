@@ -110,7 +110,7 @@ while True:
 
         text = document.read()
         if document.getcode() != 200 :
-            print "Error code=",document.getcode(), url
+            print "Error code_python2=",document.getcode(), url
             break
     except KeyboardInterrupt:
         print ''

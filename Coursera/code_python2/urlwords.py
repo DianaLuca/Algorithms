@@ -1,7 +1,7 @@
 import urllib
 
 counts = dict()
-fhand = urllib.urlopen('http://www.py4inf.com/code/romeo.txt')
+fhand = urllib.urlopen('http://www.py4inf.com/code_python2/romeo.txt')
 for line in fhand:
     words = line.split()
     for word in words:

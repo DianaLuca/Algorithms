@@ -1033,7 +1033,7 @@ def buildTagMap(default, *args):
 
 class BeautifulStoneSoup(Tag, SGMLParser):
 
-    """This class contains the basic parser and search code. It defines
+    """This class contains the basic parser and search code_python2. It defines
     a parser that knows nothing about tag behavior except for the
     following:
 
@@ -1645,7 +1645,7 @@ class ICantBelieveItsBeautifulSoup(BeautifulSoup):
 
     I_CANT_BELIEVE_THEYRE_NESTABLE_INLINE_TAGS = \
      ('em', 'big', 'i', 'small', 'tt', 'abbr', 'acronym', 'strong',
-      'cite', 'code', 'dfn', 'kbd', 'samp', 'strong', 'var', 'b',
+      'cite', 'code_python2', 'dfn', 'kbd', 'samp', 'strong', 'var', 'b',
       'big')
 
     I_CANT_BELIEVE_THEYRE_NESTABLE_BLOCK_TAGS = ('noscript',)
@@ -1722,7 +1722,7 @@ class SimplifyingSOAPParser(BeautifulSOAP):
 # Bonus library: Unicode, Dammit
 #
 # This class forces XML data into a standard format (usually to UTF-8
-# or Unicode).  It is heavily based on code from Mark Pilgrim's
+# or Unicode).  It is heavily based on code_python2 from Mark Pilgrim's
 # Universal Feed Parser. It does not rewrite the XML or HTML to
 # reflect a new encoding: that happens in BeautifulStoneSoup.handle_pi
 # (XML) and BeautifulSoup.start_meta (HTML).
