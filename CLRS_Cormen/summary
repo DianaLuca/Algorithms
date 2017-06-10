@@ -1,0 +1,67 @@
+Chapter2: Sorting a sequence of N numbers
+Insertion Sort: Incremental Approach O(N^2)
+Merge Sort: Recursive Approach - "divide and conquer" O(NlogN)
+
+
+Chapter3: Growth Functions
+Defines Asymptotic notation - mathematical concepts
+
+
+Chapter4: Divide-and-conquer method
+The Maximum Subarray problem
+Strassen Method for multiplying two square matrices O(N^2.7)
+The recursion-tree Method for solving recurrences
+Master Method - to solve the recurrences - useful for describing the running time for recursive algorithms
+
+
+Chapter5: Probabilistic Analysis and Randomized Algorithms
+The hiring problem
+Indicator random variables
+Randomized algorithms
+
+
+Chapter6: Heapsort - Sorts N numbers in place in O(NlogN) time
+Heap data structure
+Maintaining the heap property, building a heap
+Priority queues
+
+
+Chapter7: Quicksort - sorts N numbers in place: worst case O(N^2), expected running time O(NlogN)
+Insertion sort, merge sort, heapsort, quicksort are all comparison sorts: they determine the sorted order of an input
+array by comparing elements
+
+
+Chapter8: Decision-tree Model: study the performance limitations of comparison sorts.
+Counting sort algorithm O(k+N)
+Radix sort algorithm O(d(n+k))
+Bucket sort algorithm: worst_case: O(N^2), average_case: O(N)
+In some specific conditions(if we can gather information about the sorted order of the input)
+
+
+Chapter9: Medians and Order statistics - Selection in expected O(N) - linear time
+Minimum and Maximum
+
+
+Chapter10: Elementary Data Structures
+Stacks and queues
+Linked lists
+Implementing pointers and objects
+Representing rooted trees
+
+
+Chapter11: Hash Tables
+
+
+Chapter12: BST
+
+
+Chapter13: Red-Black Trees
+
+
+Chapter14: Augmenting Data Structures
+
+
+Chapter15: Dynamic Programming
+
+
+Chapter16: Greedy Algorithms
