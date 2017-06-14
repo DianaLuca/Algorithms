@@ -57,6 +57,22 @@ def findUnsortedSubarrayNlogN( nums):
     return right - left + 1
 
 
+# O(N) solution:
+def findUnsortedSubarrayON(nums):
+    n = len(nums)
+    minel = nums[n-1]
+    maxel = nums[0]
+    left = -1
+    right = -2
+
+    for i in range(n):
+        maxel = max(maxel, nums[i])
+        minel = min(minel, nums[n-1-i])
+        if nums[i] < maxel: right = i
+        if nums[n-1-i] > minel: left = n -1 - i
+    return right - left + 1
+
+
 # TestCases:
 A = []  # 0
 print(findUnsortedSubarrayNlogN(A))

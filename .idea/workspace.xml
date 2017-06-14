@@ -2,216 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac279a5-4762-432d-bcd4-a64c47d39d53" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CLRS_Cormen/BinarySearch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CLRS_Cormen/CountingSort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CLRS_Cormen/InsertionSort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CLRS_Cormen/PowerofaNumber.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CLRS_Cormen/QuickSort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CLRS_Cormen/summary" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Coursera/Algorithms_StanfordUniversity/DivideAndConquer_SortingSearching_RandomizedAlgorithms/ClosestPairOfPoints.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Coursera/Algorithms_StanfordUniversity/DivideAndConquer_SortingSearching_RandomizedAlgorithms/MatrixMultiplication1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Coursera/Algorithms_StanfordUniversity/DivideAndConquer_SortingSearching_RandomizedAlgorithms/MergeSort1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Coursera/Algorithms_StanfordUniversity/DivideAndConquer_SortingSearching_RandomizedAlgorithms/NumberOfInversionsInArray1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Coursera/Algorithms_StanfordUniversity/DivideAndConquer_SortingSearching_RandomizedAlgorithms/NumberOfInversionsInArray2.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/aa_readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/badhtml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/celsius.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/cleanup.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/copytildone.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/emaildb.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/geodata.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/geojson.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/intro-short.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/largest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/mailcount.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/mailtop.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/mbox-short.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pagerank.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pagerank/BeautifulSoup.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/romeo-full.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/roster.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/search1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/search10.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/search2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/search3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/search4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/search5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/search6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/search7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/search8.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/search9.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/sequence.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/socket1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/socket2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/spamave.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/tracks.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/twfriends.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/twitter1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/twitter2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/twitterOauth/hidden.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/twitterOauth/oauth.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/twitterOauth/twtest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/twitterOauth/twurl.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/twspider.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/txtcheck.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/txtcheck2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/txtcheck3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/txtcount.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/txtdelete.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/txtsize.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/urljpeg.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/urllib1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/urllib2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/urllink2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/urllink3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/urllinks.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/urlregex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/urlwords.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/whathour.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/wikidata.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/wikigrade.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera/code_python2/wordlist.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part2PythonDataStructures/DictionaryAssignment94.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part2PythonDataStructures/DictionaryAssignment94.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part2PythonDataStructures/Lists84.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part2PythonDataStructures/Lists84.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part2PythonDataStructures/ListsAssignment85.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part2PythonDataStructures/ListsAssignment85.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part2PythonDataStructures/OpenFile.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part2PythonDataStructures/OpenFile.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part2PythonDataStructures/OpenReadFile71.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part2PythonDataStructures/OpenReadFile71.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part2PythonDataStructures/ParseAndAverage72.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part2PythonDataStructures/ParseAndAverage72.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part2PythonDataStructures/TuplesAssignment102.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part2PythonDataStructures/TuplesAssignment102.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part2PythonDataStructures/file1.txt" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part2PythonDataStructures/file1.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part2PythonDataStructures/mbox-short.txt" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part2PythonDataStructures/mbox-short.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part2PythonDataStructures/romeo.txt" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part2PythonDataStructures/romeo.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part2PythonDataStructures/words.txt" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part2PythonDataStructures/words.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/JSON/ExtractDataFromJson1.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/JSON/ExtractDataFromJson1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/JSON/UsingGeoJsonAPI.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/JSON/UsingGeoJsonAPI.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/JSON/googleGeolocationJson.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/JSON/googleGeolocationJson.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/JSON/json1.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/JSON/json1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-22-13).csv" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-22-13).csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-22-44).csv" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-22-44).csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-23-15).csv" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-23-15).csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-23-46).csv" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-23-46).csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-24-17).csv" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-24-17).csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-24-49).csv" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-24-49).csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-25-21).csv" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-25-21).csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-25-52).csv" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-25-52).csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-27-01).csv" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/TCOscraping/TCO_contest(02-05-2017:18-27-01).csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/TCOscraping/TCOviewStandings.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/TCOscraping/TCOviewStandings.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/TCOscraping/tco.csv" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/TCOscraping/tco.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/UrlHtmlXml/AnHTTPRequest.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/UrlHtmlXml/AnHTTPRequest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/UrlHtmlXml/CreateCSV.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/UrlHtmlXml/CreateCSV.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/UrlHtmlXml/ExtractingDatafromXML.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/UrlHtmlXml/ExtractingDatafromXML.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/UrlHtmlXml/FindingNumbersInaHaystack.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/UrlHtmlXml/FindingNumbersInaHaystack.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/UrlHtmlXml/ScheduleTCOviewStandings.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/UrlHtmlXml/ScheduleTCOviewStandings.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/UrlHtmlXml/ScrapingNumbersFromHTML.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/UrlHtmlXml/ScrapingNumbersFromHTML.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/UrlHtmlXml/Socket1Assignment.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/UrlHtmlXml/Socket1Assignment.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/UrlHtmlXml/UrlLinksBeautifulSoup.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/UrlHtmlXml/UrlLinksBeautifulSoup.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/UrlHtmlXml/UsingURLlib.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/UrlHtmlXml/UsingURLlib.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/UrlHtmlXml/eggs.csv" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/UrlHtmlXml/eggs.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/UrlHtmlXml/regex_sum_369917.txt" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/UrlHtmlXml/regex_sum_369917.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/UrlHtmlXml/testPrintScreen.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/UrlHtmlXml/testPrintScreen.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/.htaccess" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/.htaccess" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/BeautifulSoup.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pagerank/BeautifulSoup.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/argfile.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/argfile.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/argtest.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/argtest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/avelist.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/avelist.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/avenum.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/avenum.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/average.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/average.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/clown.txt" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/clown.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/code.zip" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/code.zip" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/count1.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/count1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/count2.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/count2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/count3.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/count3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/curl1.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/curl1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/curl2.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/curl2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/curl3.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/curl3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/db1.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/db1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/db2.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/db2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/egg.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/egg.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/fahren.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/fahren.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/geodata/README.txt" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/geodata/README.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/geodata/geodump.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/geodata/geodump.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/geodata/geoload.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/geodata/geoload.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/geodata/where.data" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/geodata/where.data" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/geodata/where.html" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/geodata/where.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/geodata/where.js" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/geodata/where.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/geoxml.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/geoxml.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane.zip" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane.zip" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/Chart.bundle.js" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/Chart.bundle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/README.txt" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/README.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/d3.layout.cloud.js" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/d3.layout.cloud.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/d3.v3.js" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/d3.v3.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/gbasic.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/gbasic.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/gline.htm" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/gline.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/gline.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/gline.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/gline2.htm" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/gline2.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/gline3.htm" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/gline3.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/gmane.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/gmane.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/gmodel.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/gmodel.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/gword.htm" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/gword.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/gword.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/gword.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/gyear.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/gyear.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/gmane/mapping.sqlite" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/gmane/mapping.sqlite" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/grade.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/grade.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/graphics/graphics.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/graphics/graphics.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/graphics/histogram.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/graphics/histogram.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/greet.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/greet.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/grep.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/grep.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/intro.txt" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/intro.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/json1.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/json1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/json2.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/json2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/mbox.txt" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/mbox.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/open.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/open.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pagerank/LICENSE" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pagerank/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pagerank/README.txt" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pagerank/README.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pagerank/d3.v2.js" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pagerank/d3.v2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pagerank/force.css" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pagerank/force.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pagerank/force.html" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pagerank/force.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pagerank/force.js" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pagerank/force.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pagerank/spdump.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pagerank/spdump.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pagerank/spider.js" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pagerank/spider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pagerank/spider.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pagerank/spider.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pagerank/spjson.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pagerank/spjson.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pagerank/sprank.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pagerank/sprank.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pagerank/spreset.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pagerank/spreset.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pals.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pals.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/party1.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/party1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/party2.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/party2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/party3.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/party3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/party4.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/party4.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/party5.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/party5.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pay.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pay.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pay2.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pay2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/pay3.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/pay3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/re01.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/re01.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/re02.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/re02.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/re03.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/re03.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/re04.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/re04.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/re05.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/re05.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/re06.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/re06.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/re07.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/re07.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/re08.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/re08.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/re09.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/re09.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/re10.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/re10.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/re11.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/re11.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/re12.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/re12.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/re13.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/re13.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/re14.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/re14.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/romeo.txt" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/romeo.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/roster.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/roster.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/roster/roster.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/roster/roster.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/roster/roster_data_sample.json" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/roster/roster_data_sample.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/soft.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/soft.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/tracks/Library.xml" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/tracks/Library.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/tracks/README.txt" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/tracks/README.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/tracks/tracks.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/tracks/tracks.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/twdump.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/twdump.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/twjoin.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/twjoin.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/txtmd5.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/txtmd5.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/words.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/words.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/words.txt" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/words.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/xml1.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/xml1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Coursera/code_python2/xml2.py" afterPath="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/xml2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetcodePython/ShortestUnsortedContinuousSubarray581.py" afterPath="$PROJECT_DIR$/LeetcodePython/ShortestUnsortedContinuousSubarray581.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -223,71 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ParseAndAverage72.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part2PythonDataStructures/ParseAndAverage72.py">
+      <file leaf-file-name="IslandPerimeter463.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetcodePython/IslandPerimeter463.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShortestUnsortedContinuousSubarray581.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetcodePython/ShortestUnsortedContinuousSubarray581.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BestTimeToBuyAndSellStock121.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetcodePython/BestTimeToBuyAndSellStock121.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-372">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClimbingStairs70.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetcodePython/ClimbingStairs70.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DistributeCandies575.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetcodePython/DistributeCandies575.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HammingDistance461.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetcodePython/HammingDistance461.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayPartition561.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetcodePython/ArrayPartition561.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="510">
+              <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -343,14 +75,23 @@
         <option value="$PROJECT_DIR$/LeetcodePython/DistributeCandies575.py" />
         <option value="$PROJECT_DIR$/LeetcodePython/ArrayPartition561.py" />
         <option value="$PROJECT_DIR$/LeetcodePython/HammingDistance461.py" />
+        <option value="$PROJECT_DIR$/LeetcodePython/MaxConsecutiveOnes485.py" />
         <option value="$PROJECT_DIR$/LeetcodePython/ShortestUnsortedContinuousSubarray581.py" />
+        <option value="$PROJECT_DIR$/LeetcodePython/FindAllNrsDisappeared448.py" />
+        <option value="$PROJECT_DIR$/LeetcodePython/NumberComplement476.py" />
+        <option value="$PROJECT_DIR$/LeetcodePython/ReverseWordsInaString557.py" />
+        <option value="$PROJECT_DIR$/LeetcodePython/KeyboardRow500.py" />
+        <option value="$PROJECT_DIR$/RelativeRanks506.py" />
+        <option value="$PROJECT_DIR$/LeetcodePython/AssignCookies455.py" />
+        <option value="$PROJECT_DIR$/LeetcodePython/ReshapeTheMatrix566.py" />
+        <option value="$PROJECT_DIR$/LeetcodePython/IslandPerimeter463.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="142" />
-    <option name="y" value="23" />
-    <option name="width" value="1251" />
+    <option name="x" value="631" />
+    <option name="y" value="158" />
+    <option name="width" value="1193" />
     <option name="height" value="797" />
   </component>
   <component name="ProjectView">
@@ -368,6 +109,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -397,7 +139,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -406,15 +147,16 @@
     <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/JSON/Twitter" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LeetcodePython" />
       <recent name="$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan" />
       <recent name="$PROJECT_DIR$/Coursera/code/twitterOauth" />
       <recent name="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/JSON/Twitter" />
       <recent name="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/UrlHtmXml" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/JSON/Twitter" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -509,17 +251,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="142" y="23" width="1251" height="797" extended-state="0" />
+    <frame x="631" y="158" width="1193" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2158809" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11902694" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28936172" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24255319" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -562,47 +304,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Coursera/Algorithms_StanfordUniversity/DivideAndConquer_SortingSearching_RandomizedAlgorithms/MergeSort1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/twitterOauth/twurl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/twitterOauth/hidden.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/code_python2/twitterOauth/twtest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/JSON/Twitter/hiddenoauth.py" />
-    <entry file="file://$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/JSON/Twitter/oauth.py" />
-    <entry file="file://$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/JSON/Twitter/twettertest.py" />
-    <entry file="file://$PROJECT_DIR$/Coursera/Part3UsingPythonToAccessWebData/JSON/Twitter/twetterurl.py" />
     <entry file="file://$PROJECT_DIR$/hidden.py" />
     <entry file="file://$PROJECT_DIR$/.git/info/exclude">
       <provider selected="true" editor-type-id="text-editor">
@@ -707,7 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,7 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -723,7 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -731,9 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1065">
           <caret line="73" column="15" lean-forward="false" selection-start-line="73" selection-start-column="15" selection-end-line="73" selection-end-column="15" />
-          <folding>
-            <element signature="e#658#669#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,7 +436,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="66" column="28" lean-forward="false" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -749,7 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -757,7 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,7 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="44" column="43" lean-forward="false" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -789,7 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -797,7 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4093">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -805,9 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -815,7 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
           <caret line="44" column="65" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,7 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -831,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -839,7 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-116">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -847,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -855,7 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -869,7 +547,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetcodePython/BestTimeToBuyAndSellStock121.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-372">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -893,8 +571,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetcodePython/ArrayPartition561.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetcodePython/HammingDistance461.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetcodePython/FindAllNrsDisappeared448.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetcodePython/ReverseWordsInaString557.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetcodePython/KeyboardRow500.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetcodePython/ReshapeTheMatrix566.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetcodePython/NumberComplement476.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetcodePython/ShortestUnsortedContinuousSubarray581.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetcodePython/RelativeRanks506.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetcodePython/AssignCookies455.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetcodePython/MaxConsecutiveOnes485.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -902,23 +660,15 @@
     <entry file="file://$PROJECT_DIR$/LeetcodePython/DistributeCandies575.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePython/ShortestUnsortedContinuousSubarray581.py">
+    <entry file="file://$PROJECT_DIR$/LeetcodePython/IslandPerimeter463.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePython/HammingDistance461.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="25" />
+        <state relative-caret-position="510">
+          <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
           <folding />
         </state>
       </provider>
