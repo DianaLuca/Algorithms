@@ -15,7 +15,7 @@ class Solution(object):
         """
 
         if not nums:
-            return []
+            return None
 
         med = len(nums) // 2
         numsleft = nums[:med]
