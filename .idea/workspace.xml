@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ac279a5-4762-432d-bcd4-a64c47d39d53" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetcodePython/Heaters475.py" afterPath="$PROJECT_DIR$/LeetcodePython/Heaters475.py" />
-    </list>
+    <list default="true" id="0ac279a5-4762-432d-bcd4-a64c47d39d53" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,14 +72,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Heaters475.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Heaters475.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetcodePython/Heaters475.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="53" column="18" lean-forward="true" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+            <state relative-caret-position="387">
+              <caret line="48" column="59" lean-forward="false" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
               <folding>
                 <element signature="e#1167#1180#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindRightInterval436.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetcodePython/FindRightInterval436.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="35" column="70" lean-forward="false" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,16 +99,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestHarmoniousSubsequence594.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetcodePython/LongestHarmoniousSubsequence594.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -137,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Coursera/Algorithms_StanfordUniversity/DivideAndConquer_SortingSearching_RandomizedAlgorithms/ClosestPairOfPoints.py" />
         <option value="$PROJECT_DIR$/CLRS_Cormen/summary" />
         <option value="$PROJECT_DIR$/CLRS_Cormen/InsertionSort.py" />
         <option value="$PROJECT_DIR$/CLRS_Cormen/PowerofaNumber.py" />
@@ -188,12 +184,13 @@
         <option value="$PROJECT_DIR$/LeetcodePython/Sqrt(x)69.py" />
         <option value="$PROJECT_DIR$/LeetcodePython/LongestIncreasingSubsequence300.py" />
         <option value="$PROJECT_DIR$/LeetcodePython/Heaters475.py" />
+        <option value="$PROJECT_DIR$/LeetcodePython/FindRightInterval436.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="492" />
-    <option name="y" value="70" />
+    <option name="x" value="654" />
+    <option name="y" value="54" />
     <option name="width" value="1191" />
     <option name="height" value="945" />
   </component>
@@ -354,7 +351,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="492" y="70" width="1191" height="945" extended-state="0" />
+    <frame x="654" y="54" width="1191" height="945" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30374238" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -407,13 +404,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/UrlHtmlXml/ScheduleTCOviewStandings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Coursera/PythonForEverybody_UniversityOfMichigan/Part3UsingPythonToAccessWebData/UrlHtmlXml/ScrapingNumbersFromHTML.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
@@ -802,11 +792,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetcodePython/Heaters475.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="53" column="18" lean-forward="true" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        <state relative-caret-position="387">
+          <caret line="48" column="59" lean-forward="false" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
           <folding>
             <element signature="e#1167#1180#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetcodePython/FindRightInterval436.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="35" column="70" lean-forward="false" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
+          <folding />
         </state>
       </provider>
     </entry>
