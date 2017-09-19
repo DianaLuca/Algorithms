@@ -5,6 +5,7 @@
 # Note that there may be more than one LIS combination, it is only necessary for you to return the length.
 # Your algorithm should run in O(n2) complexity.
 
+
 class Solution():
     def lengthOfLIS(self, nums):
         n = len(nums)

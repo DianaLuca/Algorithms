@@ -31,22 +31,11 @@ class Solution(object):
         :type t: TreeNode
         :rtype: str
         """
-        str = []
-        stack = [t]
-        while stack:
-            node = stack.pop()
-            if node == "(" or node == ")":
-                str.append(node)
-            elif node != "()" and node != None:
-                str.append(node.val)
-                stack.append(")")
-                if node.right:
-                    stack.append(node.right)
-                stack.append("(")
-                stack.append(")")
-                if node.left:
-                    stack.append(node.left)
-                elif not node.left and node.right:
-                    stack.append("()")
-                stack.append("(")
-        return str
+        if not t:
+            return ""
+        if not t.left and not t.right:
+            return str(t.val) + ""
+        if not t.right:
+            return str(t.val) + "(" + self.tree2str(t.left) + ")"
+        return str(t.val) + "(" + self.tree2str(t.left) + ")(" + self.tree2str(t.right) + ")"
+
