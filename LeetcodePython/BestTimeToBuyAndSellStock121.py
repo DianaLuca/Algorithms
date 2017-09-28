@@ -5,8 +5,8 @@
 # Input: [7, 1, 5, 3, 6, 4]
 # Output: 5
 # max. difference = 6-1 = 5 (not 7-1 = 6, as selling price needs to be larger than buying price)
-
 import sys
+
 
 class Solution(object):
     def maxProfit(self, prices):
@@ -43,5 +43,4 @@ class Solution(object):
         for el in prices:
             minl = min(minl, el)
             profit = max(profit, el - minl)
-
         return profit
