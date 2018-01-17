@@ -24,6 +24,20 @@ class Solution(object):
         return []
 
 
+    def twoSumDictv2(self, nums, target):
+        """
+         :type nums: List[int]
+         :type target: int
+         :rtype: List[int]
+        """
+        hasht = {k: v for v, k in enumerate(nums)}
+        for i, el in enumerate(nums):
+            res = target - el
+            if hasht.get(res) != None and hasht.get(res) != i:
+                return [i, hasht[res]]
+        return []
+
+
     # O(N^2) time complexity
     # O(1) space complexity
     def twoSumBruteF(self, nums, target):

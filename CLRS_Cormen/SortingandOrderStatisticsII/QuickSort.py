@@ -1,5 +1,4 @@
 def quickSort(A, p, r):
-    print('A = ',A)
     if p < r:
         q = partition(A, p, r)
         quickSort(A, p, q-1)
@@ -13,12 +12,8 @@ def partition(A, p, r):
         if A[j] <= x:  # A[j]=4, x=1
             i += 1  # i = 0, i = 1
             swap(A, i, j)
-            print(A, 'in for, if')
 
     swap(A, i+1, r)
-    print(A, 'before return')
-    k = i+1
-    print('return i =',k)
     return i+1
 
 

@@ -30,8 +30,6 @@ class Solution(object):
                 m += 1
                 for k in range(m, i, -1):
                     nums1[k] = nums1[k - 1]
-                print
-                nums1
                 nums1[i] = nums2[j]
                 i += 1
                 j += 1
